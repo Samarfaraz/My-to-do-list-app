@@ -1,0 +1,6 @@
+{
+  "name": "AeroTask",
+  "description": "A refined, offline-first modern task organizer and productivity calendar designed under Jetpack Compose and Material 3 guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
